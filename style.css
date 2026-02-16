@@ -41,12 +41,12 @@ body {
 
 .profile-card,
 .section-card {
-    background-color: ivory;
+    background-color: #E4EAEB;
     border-radius: 16px;
     padding: 24px 24px 20px;
     margin-bottom: 16px;
     box-shadow: 0 12px 32px rgba(15, 23, 42, 0.06);
-    border: 1px solid #e5e7eb;
+    border: 1px solid #708086;
 }
 
 .profile-card {
@@ -155,3 +155,4 @@ body {
     }
 
 }
+
