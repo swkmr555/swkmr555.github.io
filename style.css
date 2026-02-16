@@ -128,9 +128,9 @@ body {
     font-size: 12px;
     padding: 4px 10px;
     border-radius: 999px;
-    background-color: #C9D4D6;
+    background-color: #E4EAEB;
     color: #1E2328;
-    border: 1px solid #93A8AC;
+    border: 1px solid #C9D4D6;
 }
 
 .footer {
@@ -155,6 +155,7 @@ body {
     }
 
 }
+
 
 
 
