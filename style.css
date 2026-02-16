@@ -67,7 +67,7 @@ body {
     color: #FCFDFD;
     font-size: 32px;
     font-weight: 600;
-    box-shadow: 0 10px 24px rgba(79, 70, 229, 0.35);
+    box-shadow: 0 10px 24px #C9D4D6(79, 70, 229, 0.35);
 }
 
 .profile-right h2 {
@@ -155,6 +155,7 @@ body {
     }
 
 }
+
 
 
 
