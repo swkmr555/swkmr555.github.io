@@ -45,7 +45,7 @@ body {
     border-radius: 16px;
     padding: 24px 24px 20px;
     margin-bottom: 16px;
-    box-shadow: 0 12px 32px rgba(15, 20, 40, 0.08);
+    box-shadow: 0 12px 32px rgba(15, 20, 40, 0.04);
     border: 1px solid #E4EAEB;
 }
 
@@ -60,11 +60,11 @@ body {
     width: 96px;
     height: 96px;
     border-radius: 999px;
-    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    background: linear-gradient(135deg, #4C5760, #708086);
     display: flex;
     align-items: center;
     justify-content: center;
-    color: antiquewhite;
+    color: #FCFDFD;
     font-size: 32px;
     font-weight: 600;
     box-shadow: 0 10px 24px rgba(79, 70, 229, 0.35);
@@ -77,7 +77,7 @@ body {
 
 .profile-role {
     font-size: 14px;
-    color: gainsboro;
+    color: #9ca3af;
 }
 
 .profile-summary {
@@ -155,6 +155,7 @@ body {
     }
 
 }
+
 
 
 
